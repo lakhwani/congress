@@ -1,10 +1,8 @@
 ## HackTheValley7 Submission: Co:ngress
 
-<img align = "center" alt="vectre-image" src="public/assets/logo_banner.png">
+<img align = "center" alt="cong-image" src="public/assets/congress.png">
 
 <h6 align="center">
-  
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
   
 </h6>
 
