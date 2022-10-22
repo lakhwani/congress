@@ -1,4 +1,4 @@
-## HackTheValley7 - co:ngress 
+## HackTheValley7 Submission: Co:ngress
 
 <img align = "center" alt="vectre-image" src="public/assets/logo_banner.png">
 
